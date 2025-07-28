@@ -1,0 +1,26 @@
+# Compiled output
+/target/
+**/*.rs.bk
+
+# Cargo-specific files
+**/Cargo.lock
+/.cargo/
+
+# IDEs and editors
+.idea/
+.vscode/
+*.swp
+*~
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Logs and temp files
+*.log
+*.tmp
+
+# By-products of rust tools
+rustfmt.toml.bk
